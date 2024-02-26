@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T12:42:59 IST" name="ValidateWebElements Application Test Automation Test Suite" finished-at="2024-02-05T12:43:31 IST" duration-ms="32038">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T12:42:59 IST" name="ValidateWebElements App Test Cases" finished-at="2024-02-05T12:43:31 IST" duration-ms="32038">
+      <class name="webelementTest.WebelementTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webelementTest.WebelementTestCases@e4f1d871]" started-at="2024-02-05T12:42:59 IST" name="setUp" finished-at="2024-02-05T12:43:14 IST" duration-ms="15531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:webelementTest.WebelementTestCases@e4f1d871]" started-at="2024-02-05T12:43:14 IST" name="test" finished-at="2024-02-05T12:43:30 IST" duration-ms="15319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webelementTest.WebelementTestCases@e4f1d871]" started-at="2024-02-05T12:43:30 IST" name="tearDown" finished-at="2024-02-05T12:43:31 IST" duration-ms="1142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webelementTest.WebelementTestCases -->
+    </test> <!-- ValidateWebElements App Test Cases -->
+  </suite> <!-- ValidateWebElements Application Test Automation Test Suite -->
+</testng-results>
